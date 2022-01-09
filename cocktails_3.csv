@@ -1,0 +1,304 @@
+,0,1,2,3
+0,vodka,cranberry juice,orange juice,triple sec
+1,vodka,lemon/lime,cranberry juice,cherry
+2,vodka,cranberry juice,lemon/lime,orange juice
+3,vodka,lemon/lime,powdered sugar,peach schnapps
+4,vodka,vanilla extract,lemon/lime,pineapple juice
+5,vodka,cherry,lemon/lime,cranberry juice
+6,vodka,cloves,orange juice,cranberry juice
+7,vodka,sweet and sour,vanilla extract,cranberry juice
+8,vodka,cherry,peach schnapps,cranberry juice
+9,vodka,amaretto,cranberry juice,triple sec
+10,vodka,pineapple juice,peach schnapps,powdered sugar
+11,vodka,cloves,orange juice,powdered sugar
+12,vodka,lemon/lime,sweet and sour,powdered sugar
+13,vodka,cranberry juice,food coloring,cherry
+14,vodka,powdered sugar,triple sec,pineapple juice
+15,vodka,cranberry juice,cherry,vanilla extract
+16,vodka,pineapple juice,cranberry juice,vanilla extract
+17,vodka,peach schnapps,food coloring,sweet and sour
+18,vodka,orange juice,food coloring,lemon/lime
+19,vodka,peach schnapps,vanilla extract,lemon/lime
+20,vodka,cranberry juice,coca-cola,ginger
+21,vodka,food coloring,orange juice,vanilla extract
+22,vodka,sweet and sour,peach schnapps,pineapple juice
+23,vodka,triple sec,sweet and sour,lemon/lime
+24,vodka,vanilla extract,peach schnapps,lemon/lime
+25,vodka,cranberry juice,ginger,cloves
+26,vodka,vanilla extract,pineapple juice,food coloring
+27,vodka,cranberry juice,vanilla extract,ginger beer
+28,vodka,orange juice,tomato juice,powdered sugar
+29,vodka,vanilla extract,pineapple,cranberry juice
+30,vodka,amaretto,powdered sugar,cranberry juice
+31,vodka,vanilla extract,triple sec,orange juice
+32,vodka,lemon/lime,pineapple juice,orange juice
+33,vodka,pineapple juice,peach schnapps,cranberry juice
+34,vodka,orange juice,cranberry juice,lemon/lime
+35,vodka,peach schnapps,lemon/lime,orange juice
+36,vodka,lemon/lime,cranberry juice,pineapple juice
+37,vodka,coca-cola,lemon/lime,tomato juice
+38,vodka,cranberry juice,peach schnapps,vanilla extract
+39,vodka,vanilla extract,pineapple juice,lemon/lime
+40,vodka,cranberry juice,powdered sugar,food coloring
+41,vodka,cranberry juice,vanilla extract,orange juice
+42,vodka,pineapple juice,lemon/lime,triple sec
+43,vodka,peach schnapps,cranberry juice,cloves
+44,vodka,triple sec,food coloring,powdered sugar
+45,vodka,vanilla extract,lemon/lime,amaretto
+46,vodka,tomato juice,lemon/lime,creme de cassis
+47,vodka,pineapple juice,vanilla extract,lemon/lime
+48,vodka,cranberry juice,vanilla extract,egg white
+49,vodka,amaretto,coca-cola,pineapple juice
+50,vodka,pineapple juice,food coloring,vanilla extract
+51,vodka,cranberry juice,vanilla extract,amaretto
+52,vodka,pineapple juice,cranberry juice,orange juice
+53,vodka,lemon/lime,peach schnapps,cranberry juice
+54,vodka,lemon/lime,vanilla extract,amaretto
+55,vodka,cranberry juice,vanilla extract,sweet and sour
+56,vodka,sweet and sour,vanilla extract,cranberry juice
+57,vodka,benedictine,lemon/lime,cloves
+58,vodka,cranberry juice,pineapple juice,peach schnapps
+59,vodka,sweet and sour,orange juice,egg white
+60,vodka,cherry,pineapple juice,food coloring
+61,vodka,cranberry juice,powdered sugar,orange peel
+62,vodka,lemon/lime,cloves,cranberry juice
+63,vodka,lemon/lime,vanilla extract,cranberry juice
+64,vodka,pineapple,sweet and sour,vanilla extract
+65,vodka,vanilla extract,sweet and sour,cranberry juice
+66,vodka,cranberry juice,triple sec,orange peel
+67,vodka,ginger beer,cranberry juice,lemon/lime
+68,vodka,egg white,cloves,peach schnapps
+69,vodka,pineapple juice,ginger,cranberry juice
+70,vodka,sweet and sour,cloves,cranberry juice
+71,vodka,vanilla extract,cherry,orange juice
+72,vodka,egg white,cranberry juice,pineapple juice
+73,vodka,lemon/lime,pineapple juice,cranberry juice
+74,vodka,cranberry juice,lemon/lime,amaretto
+75,vodka,lemon/lime,vanilla extract,orange juice
+76,vodka,vanilla extract,orange juice,cranberry juice
+77,vodka,lemon/lime,pineapple,vanilla extract
+78,vodka,cloves,peach schnapps,cranberry juice
+79,vodka,cherry,pineapple juice,orange juice
+80,vodka,vanilla extract,peach schnapps,lemon/lime
+81,vodka,lemon/lime,cloves,orange juice
+82,vodka,sweet and sour,food coloring,cranberry juice
+83,vodka,cloves,triple sec,cranberry juice
+84,vodka,angostura bitters,cloves,amaretto
+85,vodka,food coloring,cloves,pineapple juice
+86,vodka,vanilla extract,peach schnapps,pineapple juice
+87,vodka,triple sec,tomato juice,vanilla extract
+88,vodka,cloves,food coloring,lemon/lime
+89,vodka,cranberry juice,powdered sugar,cloves
+90,vodka,peach schnapps,cranberry juice,orange peel
+91,vodka,peach schnapps,lemon/lime,cranberry juice
+92,vodka,cloves,peach schnapps,vanilla extract
+93,vodka,cloves,vanilla extract,cranberry juice
+94,vodka,cranberry juice,vanilla extract,powdered sugar
+95,vodka,triple sec,cherry,angostura bitters
+96,vodka,pineapple juice,lemon/lime,orange juice
+97,vodka,vanilla extract,peach schnapps,powdered sugar
+98,vodka,amaretto,pineapple juice,lemon/lime
+99,vodka,lemon/lime,sweet and sour,orange juice
+100,vodka,cranberry juice,lemon/lime,vanilla extract
+101,rum,triple sec,lemon/lime,cocoa powder
+102,rum,lemon/lime,kahlua,cranberry juice
+103,rum,chocolate syrup,light cream,powdered sugar
+104,rum,light cream,cranberry juice,lemon/lime
+105,rum,milk,maraschino cherry,powdered sugar
+106,rum,cranberry juice,lemon/lime,egg white
+107,rum,milk,light cream,salt
+108,rum,lemon/lime,milk,orange juice
+109,rum,powdered sugar,lemon/lime,orange juice
+110,rum,orange juice,chocolate syrup,cranberry juice
+111,rum,carbonated water,lemon/lime,kahlua
+112,rum,lemon/lime,cranberry juice,light cream
+113,rum,pineapple juice,lemon/lime,sweet and sour
+114,rum,orange juice,lemon/lime,milk
+115,rum,salt,powdered sugar,cinnamon
+116,rum,lemon/lime,chocolate syrup,triple sec
+117,rum,pineapple juice,cocoa powder,maraschino cherry
+118,rum,milk,powdered sugar,lemon/lime
+119,rum,powdered sugar,cranberry juice,milk
+120,rum,cranberry juice,milk,triple sec
+121,rum,orange juice,pineapple,lemon/lime
+122,rum,lemon/lime,nutmeg,chocolate syrup
+123,rum,cinnamon,lemon/lime,milk
+124,rum,lemon/lime,orange juice,milk
+125,rum,light cream,maraschino cherry,salt
+126,rum,lemon/lime,egg white,cherry
+127,rum,maraschino cherry,lemon/lime,pineapple juice
+128,rum,amaretto,powdered sugar,carbonated water
+129,rum,lemon/lime,orange juice,salt
+130,rum,lemon/lime,light cream,maraschino cherry
+131,rum,kahlua,powdered sugar,milk
+132,rum,orange juice,nutmeg,cranberry juice
+133,rum,nutmeg,maraschino cherry,lemon/lime
+134,rum,salt,powdered sugar,lemon/lime
+135,rum,maraschino cherry,orange juice,chocolate
+136,rum,lemon/lime,chocolate syrup,sweet and sour
+137,rum,orange juice,amaretto,lemon/lime
+138,rum,lemon/lime,maraschino cherry,triple sec
+139,rum,triple sec,milk,chocolate
+140,rum,salt,maraschino cherry,milk
+141,rum,milk,light cream,egg white
+142,rum,light cream,lemon/lime,powdered sugar
+143,rum,orange juice,cocoa powder,lemon/lime
+144,rum,light cream,kahlua,carbonated water
+145,rum,salt,lemon/lime,chocolate
+146,rum,lemon/lime,egg white,nutmeg
+147,rum,lemon/lime,carbonated water,cherry
+148,rum,nutmeg,cranberry juice,light cream
+149,rum,lemon/lime,maraschino cherry,milk
+150,rum,lemon/lime,milk,salt
+151,rum,lemon/lime,milk,light cream
+152,rum,lemon/lime,milk,kahlua
+153,rum,lemon/lime,cinnamon,powdered sugar
+154,rum,maraschino cherry,milk,lemon/lime
+155,rum,orange juice,lemon/lime,cranberry juice
+156,rum,lemon/lime,orange juice,cocoa powder
+157,rum,egg white,milk,sweet and sour
+158,rum,lemon/lime,milk,powdered sugar
+159,rum,pineapple,lemon/lime,cinnamon
+160,rum,egg white,lemon/lime,light cream
+161,rum,lemon/lime,light cream,pineapple
+162,rum,milk,light cream,cherry
+163,rum,orange juice,chocolate syrup,kahlua
+164,rum,cocoa powder,orange juice,lemon/lime
+165,rum,salt,pineapple,light cream
+166,rum,lemon/lime,cranberry juice,powdered sugar
+167,rum,milk,amaretto,lemon/lime
+168,rum,cinnamon,lemon/lime,cranberry juice
+169,rum,egg white,lemon/lime,pineapple juice
+170,rum,milk,light cream,pineapple juice
+171,rum,lemon/lime,amaretto,cocoa powder
+172,rum,orange juice,lemon/lime,cranberry juice
+173,rum,orange juice,lemon/lime,pineapple
+174,rum,milk,orange juice,lemon/lime
+175,rum,lemon/lime,orange juice,cranberry juice
+176,rum,light cream,lemon/lime,maraschino cherry
+177,rum,powdered sugar,light cream,cranberry juice
+178,rum,egg white,chocolate syrup,triple sec
+179,rum,lemon/lime,cherry,light cream
+180,rum,powdered sugar,cranberry juice,maraschino cherry
+181,rum,lemon/lime,salt,chocolate syrup
+182,rum,cherry,lemon/lime,kahlua
+183,rum,orange juice,lemon/lime,light cream
+184,rum,milk,lemon/lime,chocolate syrup
+185,rum,lemon/lime,orange juice,pineapple juice
+186,rum,maraschino cherry,lemon/lime,kahlua
+187,rum,milk,light cream,cocoa powder
+188,rum,lemon/lime,maraschino cherry,milk
+189,rum,lemon/lime,light cream,powdered sugar
+190,rum,cocoa powder,triple sec,kahlua
+191,rum,cranberry juice,orange juice,lemon/lime
+192,rum,lemon/lime,sweet and sour,cranberry juice
+193,rum,light cream,powdered sugar,cocoa powder
+194,rum,milk,lemon/lime,light cream
+195,rum,cherry,milk,cranberry juice
+196,rum,lemon/lime,powdered sugar,kahlua
+197,rum,milk,lemon/lime,cocoa powder
+198,rum,light cream,milk,cinnamon
+199,rum,lemon/lime,cinnamon,powdered sugar
+200,rum,lemon/lime,egg white,light cream
+201,rum,milk,orange juice,kahlua
+202,gin,lemon/lime,orange bitters,salt
+203,gin,lemon/lime,salt,benedictine
+204,gin,lemon/lime,orange juice,grapefruit juice
+205,gin,food coloring,ginger,cherry
+206,gin,lemon/lime,orange bitters,food coloring
+207,gin,lemon/lime,orange bitters,salt
+208,gin,lemon/lime,powdered sugar,food coloring
+209,gin,lemon/lime,orange juice,grapefruit juice
+210,gin,cloves,orange bitters,lemon/lime
+211,gin,lemon/lime,orange juice,salt
+212,gin,lemon/lime,food coloring,salt
+213,gin,lemon/lime,cloves,triple sec
+214,gin,lemon/lime,orange juice,egg white
+215,gin,cloves,creme de cassis,lemon/lime
+216,gin,orange juice,lemon/lime,grapefruit juice
+217,gin,lemon/lime,salt,grapefruit juice
+218,gin,lemon/lime,orange juice,cloves
+219,gin,lemon/lime,pineapple,salt
+220,gin,ginger,food coloring,egg white
+221,gin,orange bitters,mint,lemon/lime
+222,gin,food coloring,salt,lemon/lime
+223,gin,lemon/lime,cloves,egg white
+224,gin,lemon/lime,mint,orange juice
+225,gin,lemon/lime,ginger beer,powdered sugar
+226,gin,lemon/lime,egg white,coca-cola
+227,gin,lemon/lime,food coloring,orange juice
+228,gin,orange bitters,lemon/lime,triple sec
+229,gin,lemon/lime,pineapple,cherry
+230,gin,lemon/lime,salt,cloves
+231,gin,egg white,lemon/lime,salt
+232,gin,lemon/lime,grapefruit juice,egg white
+233,gin,lemon/lime,salt,blue curacao
+234,gin,lemon/lime,cherry,salt
+235,gin,lemon/lime,tomato juice,food coloring
+236,gin,grapefruit juice,salt,food coloring
+237,gin,triple sec,lemon/lime,food coloring
+238,gin,cloves,benedictine,orange bitters
+239,gin,food coloring,lemon/lime,cloves
+240,gin,lemon/lime,salt,triple sec
+241,gin,lemon/lime,orange juice,salt
+242,gin,lemon/lime,pineapple,salt
+243,gin,lemon/lime,orange bitters,food coloring
+244,gin,lemon/lime,orange bitters,orange peel
+245,gin,lemon/lime,coca-cola,salt
+246,gin,orange juice,triple sec,lemon/lime
+247,gin,lemon/lime,egg white,angostura bitters
+248,gin,lemon/lime,food coloring,mint
+249,gin,lemon/lime,orange juice,salt
+250,gin,cloves,lemon/lime,salt
+251,gin,lemon/lime,orange bitters,triple sec
+252,gin,lemon/lime,grapefruit juice,benedictine
+253,gin,orange bitters,benedictine,lemon/lime
+254,gin,lemon/lime,egg white,orange bitters
+255,gin,orange peel,lemon/lime,orange bitters
+256,gin,lemon/lime,salt,powdered sugar
+257,gin,cloves,lemon/lime,triple sec
+258,gin,lemon/lime,powdered sugar,food coloring
+259,gin,orange bitters,food coloring,triple sec
+260,gin,pineapple,orange bitters,lemon/lime
+261,gin,cloves,lemon/lime,grapefruit juice
+262,gin,lemon/lime,salt,orange juice
+263,gin,lemon/lime,salt,cloves
+264,gin,lemon/lime,egg white,coca-cola
+265,gin,creme de cassis,lemon/lime,food coloring
+266,gin,cloves,lemon/lime,egg white
+267,gin,angostura bitters,lemon/lime,egg white
+268,gin,salt,powdered sugar,cloves
+269,gin,lemon/lime,salt,grapefruit juice
+270,gin,lemon/lime,food coloring,salt
+271,gin,salt,angostura bitters,lemon/lime
+272,gin,lemon/lime,pineapple,powdered sugar
+273,gin,lemon/lime,orange bitters,salt
+274,gin,lemon/lime,powdered sugar,grapefruit juice
+275,gin,orange bitters,triple sec,salt
+276,gin,lemon/lime,salt,food coloring
+277,gin,salt,orange bitters,lemon/lime
+278,gin,lemon/lime,orange bitters,tomato juice
+279,gin,lemon/lime,grapefruit juice,triple sec
+280,gin,lemon/lime,egg white,triple sec
+281,gin,lemon/lime,orange bitters,egg white
+282,gin,salt,orange juice,egg white
+283,gin,lemon/lime,orange juice,angostura bitters
+284,gin,lemon/lime,food coloring,benedictine
+285,gin,lemon/lime,salt,orange bitters
+286,gin,lemon/lime,salt,benedictine
+287,gin,lemon/lime,salt,coca-cola
+288,gin,lemon/lime,triple sec,salt
+289,gin,orange bitters,lemon/lime,orange peel
+290,gin,lemon/lime,creme de cassis,food coloring
+291,gin,lemon/lime,orange juice,triple sec
+292,gin,lemon/lime,egg white,triple sec
+293,gin,lemon/lime,ginger,orange juice
+294,gin,lemon/lime,triple sec,cherry
+295,gin,lemon/lime,tomato juice,triple sec
+296,gin,creme de cassis,lemon/lime,cloves
+297,gin,lemon/lime,orange juice,tomato juice
+298,gin,lemon/lime,salt,cloves
+299,gin,lemon/lime,food coloring,orange juice
+300,gin,lemon/lime,triple sec,powdered sugar
+301,gin,lemon/lime,ginger beer,cloves
+302,gin,egg white,orange bitters,lemon/lime

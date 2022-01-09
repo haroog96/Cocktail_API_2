@@ -1,0 +1,304 @@
+,0,1,2,3
+0,vodka,red wine,brandy,food coloring
+1,vodka,gin,orange juice,grenadine
+2,vodka,food coloring,grenadine,brandy
+3,vodka,blue curacao,pineapple juice,amaretto
+4,vodka,vanilla extract,rum,grenadine
+5,vodka,vanilla extract,tequila,rum
+6,vodka,cloves,cherry,red wine
+7,vodka,orange juice,cranberry juice,whiskey
+8,vodka,brandy,rum,peach schnapps
+9,vodka,cherry,cranberry juice,rum
+10,vodka,brandy,rum,vanilla extract
+11,vodka,cloves,vanilla extract,orange juice
+12,vodka,cranberry juice,brandy,rum
+13,vodka,cranberry juice,blue curacao,pineapple juice
+14,vodka,vanilla extract,cranberry juice,gin
+15,vodka,powdered sugar,orange juice,rum
+16,vodka,rum,grenadine,vanilla extract
+17,vodka,tequila,powdered sugar,cherry
+18,vodka,vanilla extract,campari,brandy
+19,vodka,lemon/lime,vanilla extract,ginger
+20,vodka,food coloring,gin,brandy
+21,vodka,cranberry juice,orange peel,gin
+22,vodka,gin,tequila,pineapple juice
+23,vodka,orange juice,brandy,vanilla extract
+24,vodka,cranberry juice,vanilla extract,orange juice
+25,vodka,gin,cranberry juice,grenadine
+26,vodka,gin,vanilla extract,peach schnapps
+27,vodka,vanilla extract,rum,brandy
+28,vodka,lemon/lime,peach schnapps,red wine
+29,vodka,vanilla extract,brandy,orange juice
+30,vodka,rum,vanilla extract,amaretto
+31,vodka,tequila,grenadine,food coloring
+32,vodka,brandy,rum,pineapple juice
+33,vodka,cranberry juice,rum,gin
+34,vodka,coca-cola,triple sec,red wine
+35,vodka,tequila,red wine,gin
+36,vodka,cloves,gin,rum
+37,vodka,whiskey,food coloring,tequila
+38,vodka,rum,coca-cola,lemon/lime
+39,vodka,grenadine,peach schnapps,vanilla extract
+40,vodka,orange juice,rum,cranberry juice
+41,vodka,rum,cloves,tequila
+42,vodka,rum,tomato juice,campari
+43,vodka,cranberry juice,cloves,lemon/lime
+44,vodka,lemon/lime,coca-cola,campari
+45,vodka,orange juice,grenadine,ginger beer
+46,vodka,gin,pineapple juice,peach schnapps
+47,vodka,lemon/lime,gin,brandy
+48,vodka,rum,cranberry juice,vanilla extract
+49,vodka,powdered sugar,triple sec,grenadine
+50,vodka,lemon/lime,pineapple juice,vermouth
+51,vodka,orange juice,gin,triple sec
+52,vodka,orange juice,brandy,pineapple juice
+53,vodka,gin,cherry,brandy
+54,vodka,powdered sugar,grenadine,pineapple juice
+55,vodka,lemon/lime,brandy,creme de cassis
+56,vodka,rum,gin,food coloring
+57,vodka,red wine,cranberry juice,amaretto
+58,vodka,vanilla extract,cherry,gin
+59,vodka,orange juice,vermouth,triple sec
+60,vodka,vanilla extract,gin,campari
+61,vodka,bourbon,brandy,cranberry juice
+62,vodka,gin,brandy,lemon/lime
+63,vodka,gin,cranberry juice,rum
+64,vodka,red wine,rum,grenadine
+65,vodka,cloves,vanilla extract,orange juice
+66,vodka,vanilla extract,rum,tequila
+67,vodka,tequila,orange juice,powdered sugar
+68,vodka,vanilla extract,grenadine,brandy
+69,vodka,grenadine,powdered sugar,cranberry juice
+70,vodka,orange juice,cherry,food coloring
+71,vodka,cloves,powdered sugar,coca-cola
+72,vodka,cranberry juice,red wine,triple sec
+73,vodka,grenadine,cranberry juice,triple sec
+74,vodka,brandy,vanilla extract,orange juice
+75,vodka,triple sec,cloves,rum
+76,vodka,rum,brandy,vanilla extract
+77,vodka,lemon/lime,campari,vanilla extract
+78,vodka,rum,brandy,vanilla extract
+79,vodka,grenadine,lemon/lime,cranberry juice
+80,vodka,red wine,gin,cloves
+81,vodka,lemon/lime,orange juice,gin
+82,vodka,red wine,cloves,cranberry juice
+83,vodka,mint,food coloring,gin
+84,vodka,cloves,rum,grenadine
+85,vodka,vanilla extract,rum,amaretto
+86,vodka,cherry,amaretto,pineapple juice
+87,vodka,campari,grenadine,mint
+88,vodka,sweet and sour,brandy,orange juice
+89,vodka,orange juice,lemon/lime,vanilla extract
+90,vodka,tequila,cognac,vanilla extract
+91,vodka,grenadine,cloves,brandy
+92,vodka,gin,food coloring,brandy
+93,vodka,gin,rum,cranberry juice
+94,vodka,gin,brandy,vanilla extract
+95,vodka,brandy,lemon/lime,rum
+96,vodka,peach schnapps,cranberry juice,vanilla extract
+97,vodka,rum,gin,ginger beer
+98,vodka,vanilla extract,red wine,orange juice
+99,vodka,lemon/lime,cranberry juice,orange juice
+100,vodka,rum,lemon/lime,peach schnapps
+101,rum,gin,salt,lemon/lime
+102,rum,vodka,tequila,lemon/lime
+103,rum,lemon/lime,vodka,cherry
+104,rum,light cream,lemon/lime,kahlua
+105,rum,nutmeg,kahlua,tequila
+106,rum,lemon/lime,tequila,red wine
+107,rum,lemon/lime,kahlua,powdered sugar
+108,rum,gin,tequila,cranberry juice
+109,rum,lemon/lime,gin,grenadine
+110,rum,grenadine,egg white,powdered sugar
+111,rum,grenadine,powdered sugar,pineapple juice
+112,rum,lemon/lime,gin,grenadine
+113,rum,orange juice,lemon/lime,chocolate
+114,rum,lemon/lime,brandy,orange juice
+115,rum,brandy,gin,light cream
+116,rum,tequila,whiskey,egg white
+117,rum,powdered sugar,grenadine,maraschino cherry
+118,rum,orange juice,pineapple juice,pineapple
+119,rum,brandy,gin,tequila
+120,rum,red wine,light cream,maraschino cherry
+121,rum,lemon/lime,pineapple,vodka
+122,rum,tequila,milk,pineapple
+123,rum,powdered sugar,milk,salt
+124,rum,brandy,milk,triple sec
+125,rum,lemon/lime,milk,grenadine
+126,rum,grenadine,brandy,maraschino cherry
+127,rum,gin,grenadine,powdered sugar
+128,rum,orange juice,maraschino cherry,lemon/lime
+129,rum,lemon/lime,brandy,grenadine
+130,rum,vodka,gin,chocolate
+131,rum,cranberry juice,pineapple,vodka
+132,rum,lemon/lime,red wine,grenadine
+133,rum,whiskey,grenadine,triple sec
+134,rum,grenadine,lemon/lime,powdered sugar
+135,rum,cranberry juice,pineapple,grenadine
+136,rum,lemon/lime,gin,egg white
+137,rum,cranberry juice,grenadine,lemon/lime
+138,rum,vodka,orange juice,lemon/lime
+139,rum,grenadine,cranberry juice,pineapple juice
+140,rum,gin,brandy,lemon/lime
+141,rum,cinnamon,grenadine,powdered sugar
+142,rum,salt,lemon/lime,orange juice
+143,rum,vodka,lemon/lime,grenadine
+144,rum,maraschino cherry,vodka,grenadine
+145,rum,pineapple juice,lemon/lime,brandy
+146,rum,milk,maraschino cherry,salt
+147,rum,vodka,gin,maraschino cherry
+148,rum,triple sec,vodka,lemon/lime
+149,rum,orange juice,lemon/lime,brandy
+150,rum,red wine,cherry,vodka
+151,rum,tequila,triple sec,grenadine
+152,rum,grenadine,milk,brandy
+153,rum,grenadine,maraschino cherry,tequila
+154,rum,milk,amaretto,maraschino cherry
+155,rum,brandy,vodka,maraschino cherry
+156,rum,vodka,grenadine,lemon/lime
+157,rum,milk,powdered sugar,amaretto
+158,rum,lemon/lime,gin,salt
+159,rum,cherry,maraschino cherry,grenadine
+160,rum,gin,grenadine,vodka
+161,rum,gin,grenadine,cinnamon
+162,rum,lemon/lime,powdered sugar,carbonated water
+163,rum,carbonated water,tequila,lemon/lime
+164,rum,light cream,grenadine,vodka
+165,rum,grenadine,pineapple juice,milk
+166,rum,vodka,milk,cranberry juice
+167,rum,egg white,whiskey,powdered sugar
+168,rum,milk,brandy,orange juice
+169,rum,powdered sugar,grenadine,egg white
+170,rum,lemon/lime,chocolate,grenadine
+171,rum,grenadine,egg white,brandy
+172,rum,lemon/lime,red wine,tequila
+173,rum,red wine,nutmeg,brandy
+174,rum,lemon/lime,salt,carbonated water
+175,rum,gin,lemon/lime,orange juice
+176,rum,lemon/lime,egg white,grenadine
+177,rum,cranberry juice,maraschino cherry,grenadine
+178,rum,lemon/lime,vodka,chocolate syrup
+179,rum,brandy,grenadine,cocoa powder
+180,rum,lemon/lime,gin,milk
+181,rum,egg white,lemon/lime,brandy
+182,rum,milk,lemon/lime,brandy
+183,rum,orange juice,lemon/lime,vodka
+184,rum,lemon/lime,vodka,pineapple juice
+185,rum,pineapple juice,grenadine,cranberry juice
+186,rum,nutmeg,lemon/lime,triple sec
+187,rum,gin,tequila,grenadine
+188,rum,orange juice,grenadine,brandy
+189,rum,grenadine,maraschino cherry,cranberry juice
+190,rum,orange juice,chocolate syrup,cherry
+191,rum,cranberry juice,orange juice,vodka
+192,rum,chocolate syrup,light cream,cranberry juice
+193,rum,cherry,cocoa powder,powdered sugar
+194,rum,grenadine,milk,orange juice
+195,rum,lemon/lime,powdered sugar,grenadine
+196,rum,kahlua,grenadine,powdered sugar
+197,rum,maraschino cherry,pineapple juice,grenadine
+198,rum,red wine,light cream,salt
+199,rum,grenadine,brandy,salt
+200,rum,grenadine,whiskey,lemon/lime
+201,rum,cranberry juice,gin,pineapple
+202,gin,orange juice,lemon/lime,salt
+203,gin,orange bitters,brandy,whiskey
+204,gin,lemon/lime,egg white,ginger
+205,gin,tequila,rum,lemon/lime
+206,gin,vodka,lemon/lime,salt
+207,gin,campari,tequila,food coloring
+208,gin,vodka,salt,scotch
+209,gin,campari,brandy,triple sec
+210,gin,lemon/lime,vermouth,bourbon
+211,gin,lemon/lime,orange juice,egg white
+212,gin,triple sec,orange juice,lemon/lime
+213,gin,mint,rum,salt
+214,gin,vodka,tomato juice,lemon/lime
+215,gin,lemon/lime,orange bitters,food coloring
+216,gin,tequila,lemon/lime,rum
+217,gin,angostura bitters,cloves,lemon/lime
+218,gin,lemon/lime,campari,orange juice
+219,gin,tomato juice,orange juice,vodka
+220,gin,tequila,lemon/lime,ginger
+221,gin,orange juice,lemon/lime,food coloring
+222,gin,vodka,lemon/lime,brandy
+223,gin,benedictine,lemon/lime,orange juice
+224,gin,rum,lemon/lime,brandy
+225,gin,cloves,rum,grenadine
+226,gin,brandy,orange juice,creme de cassis
+227,gin,lemon/lime,orange bitters,cloves
+228,gin,triple sec,lemon/lime,benedictine
+229,gin,cloves,tequila,vodka
+230,gin,lemon/lime,vodka,rum
+231,gin,grenadine,cloves,benedictine
+232,gin,whiskey,brandy,lemon/lime
+233,gin,vodka,campari,tequila
+234,gin,brandy,lemon/lime,triple sec
+235,gin,lemon/lime,brandy,vodka
+236,gin,ginger,lemon/lime,mint
+237,gin,lemon/lime,brandy,salt
+238,gin,lemon/lime,brandy,campari
+239,gin,triple sec,food coloring,lemon/lime
+240,gin,vodka,grapefruit juice,ginger
+241,gin,orange bitters,rum,brandy
+242,gin,lemon/lime,tequila,benedictine
+243,gin,orange bitters,rum,lemon/lime
+244,gin,orange juice,tequila,brandy
+245,gin,egg white,grenadine,vodka
+246,gin,lemon/lime,campari,salt
+247,gin,vodka,grenadine,campari
+248,gin,grenadine,triple sec,orange juice
+249,gin,triple sec,cherry,campari
+250,gin,food coloring,lemon/lime,grapefruit juice
+251,gin,brandy,food coloring,ginger beer
+252,gin,salt,grapefruit juice,lemon/lime
+253,gin,tequila,lemon/lime,egg white
+254,gin,campari,rum,lemon/lime
+255,gin,grapefruit juice,brandy,vodka
+256,gin,vodka,lemon/lime,rum
+257,gin,lemon/lime,coca-cola,vodka
+258,gin,brandy,campari,lemon/lime
+259,gin,vodka,lemon/lime,cloves
+260,gin,cloves,rum,whiskey
+261,gin,egg white,rum,lemon/lime
+262,gin,lemon/lime,vodka,brandy
+263,gin,scotch,brandy,orange bitters
+264,gin,campari,brandy,lemon/lime
+265,gin,grapefruit juice,rum,vodka
+266,gin,lemon/lime,rum,triple sec
+267,gin,brandy,campari,lemon/lime
+268,gin,campari,grenadine,brandy
+269,gin,food coloring,vodka,lemon/lime
+270,gin,brandy,lemon/lime,food coloring
+271,gin,salt,cognac,pineapple
+272,gin,lemon/lime,campari,orange juice
+273,gin,cherry,salt,egg white
+274,gin,lemon/lime,vodka,rum
+275,gin,vodka,brandy,rum
+276,gin,rum,vodka,triple sec
+277,gin,salt,lemon/lime,food coloring
+278,gin,lemon/lime,brandy,grapefruit juice
+279,gin,orange juice,brandy,campari
+280,gin,grapefruit juice,lemon/lime,triple sec
+281,gin,triple sec,salt,lemon/lime
+282,gin,campari,lemon/lime,whiskey
+283,gin,salt,lemon/lime,pineapple
+284,gin,grenadine,rum,lemon/lime
+285,gin,rum,vodka,benedictine
+286,gin,salt,vodka,grenadine
+287,gin,rum,lemon/lime,tequila
+288,gin,lemon/lime,vodka,rum
+289,gin,lemon/lime,orange bitters,rum
+290,gin,brandy,vodka,lemon/lime
+291,gin,vermouth,salt,orange bitters
+292,gin,orange bitters,brandy,salt
+293,gin,orange bitters,rum,pineapple
+294,gin,brandy,lemon/lime,orange juice
+295,gin,lemon/lime,orange juice,vodka
+296,gin,grapefruit juice,food coloring,lemon/lime
+297,gin,cloves,rum,orange bitters
+298,gin,vodka,lemon/lime,vermouth
+299,gin,vodka,lemon/lime,grenadine
+300,gin,tomato juice,lemon/lime,salt
+301,gin,rum,lemon/lime,grenadine
+302,gin,rum,triple sec,brandy
